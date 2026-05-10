@@ -1,3 +1,3 @@
-# Physical_collision_of_small_balls
+# physical-collision-of-small-balls
 
-https://alchemilk.github.io/Physical_collision_of_small_balls/
+demo:https://alchemilk.github.io/physical-collision-of-small-balls/
